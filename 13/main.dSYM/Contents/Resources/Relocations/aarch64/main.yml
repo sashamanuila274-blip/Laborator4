@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sashamanuila/Documents/manuila-lab4/13/main'
+relocations:     []
+...
